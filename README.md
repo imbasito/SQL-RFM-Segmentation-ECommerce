@@ -19,6 +19,7 @@ To segment customers for **targeted marketing** by identifying:
 
 ## 🧱 Dataset Summary
 - **Source**: Kaggle E-Commerce UK Dataset
+- **Link** : https://www.kaggle.com/datasets/carrie1/ecommerce-data/data
 - **Records**: 500K+ transactions
 - **Fields**: InvoiceNo, Product Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate
 
