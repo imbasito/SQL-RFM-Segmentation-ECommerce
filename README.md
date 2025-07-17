@@ -1,4 +1,4 @@
-# RFM Customer Segmentation using SQL (E-Commerce Dataset)
+![Ecommerce_Transactions_UK_Dashboard - Light_page-0001](https://github.com/user-attachments/assets/e2dc4dce-abd9-434c-a205-8e2c41abdf4d)# RFM Customer Segmentation using SQL (E-Commerce Dataset)
 
 ##  Project Overview
 This project applies **Recency, Frequency, and Monetary (RFM)** analysis to segment customers based on their purchasing behavior using SQL.
@@ -68,6 +68,34 @@ Applied conditional logic to tag each customer into:
 
 ---
 
+📊 Power BI Dashboard Overview
+
+The cleaned SQL output was imported into Power BI to create an **interactive business dashboard**.
+
+### 📌 Page 1 – Customer Overview
+
+- 📌 KPIs: Total Revenue, Total Customers, New vs Returning %
+- 🧭 Monthly Revenue Trends
+- 📊 Pie Chart: Customer Type Distribution
+- 🔎 Filter by Customer Type
+
+### 📌 Page 2 – RFM Segmentation Dashboard
+
+- 🧮 KPI Cards: Recency, Frequency, Monetary
+- 📊 Bar Chart: Segment Count
+- 📈 Line Chart: Revenue per Segment by Month
+- 📋 Table: Customers per Segment with drillthrough
+
+### 📌 Page 3 – Customer Drillthrough View
+
+- 👤 Customer Details by RFM Segment
+- 📌 Cross-filtering using drillthrough
+- 📊 Dynamic visuals updated based on the selected customer
+
+---
+![Dashboard Preview](images/Dashboards/Ecommerce_Transactions_UK_Dashboard - Light)
+---
+
 ## 📈 Tools Used
 - ✅ **MySQL Workbench**
 - 🗃️ CSV Import & Table Creation
@@ -76,7 +104,7 @@ Applied conditional logic to tag each customer into:
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## 🧠 SQL - Key Skills Demonstrated
 - Data Cleaning (NULLs, Duplicates, Returns)
 - SQL Feature Engineering
 - Customer Segmentation via RFM
@@ -84,8 +112,19 @@ Applied conditional logic to tag each customer into:
 - Preparation for Power BI Visualization
 
 ---
+## 🧠 Power BI - Key Skills Demonstrated
+- DAX Measures for KPIs
+- Drillthrough & Cross-filtering
+- Page navigation & conditional formatting
+- Data storytelling with business context
 
-## 📤 Next Steps
-This dataset is now ready for:
-- 🎨 Power BI dashboard visualizing RFM segments
-- 📈 Targeted marketing strategy simulation
+
+## 🗂️ Project Structure
+  📦 rfm-customer-segmentation/
+├── 📂 dashboard/
+├── 📂 sample data/
+├── 📂 sql/
+├── 📄 LICENSE
+├── 📊 Lab5_Behavioral_Segmentation(RFM Analysis).csv
+├── 📄 README.md
+├── 📊 edata_cleaned.csv
