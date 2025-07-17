@@ -93,7 +93,7 @@ The cleaned SQL output was imported into Power BI to create an **interactive bus
 - 📊 Dynamic visuals updated based on the selected customer
 
 ---
-![Dashboard Preview](images/Dashboards/Ecommerce_Transactions_UK_Dashboard - Light)
+![Dashboard Preview](Dashboards/Ecommerce_Transactions_UK_Dashboard - Light)
 ---
 
 ## 📈 Tools Used
