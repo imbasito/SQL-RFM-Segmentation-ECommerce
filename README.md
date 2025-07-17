@@ -1,5 +1,3 @@
-![Ecommerce_Transactions_UK_Dashboard - Light_page-0001](https://github.com/user-attachments/assets/e2dc4dce-abd9-434c-a205-8e2c41abdf4d)# RFM Customer Segmentation using SQL (E-Commerce Dataset)
-
 ##  Project Overview
 This project applies **Recency, Frequency, and Monetary (RFM)** analysis to segment customers based on their purchasing behavior using SQL.
 
@@ -93,7 +91,7 @@ The cleaned SQL output was imported into Power BI to create an **interactive bus
 - 📊 Dynamic visuals updated based on the selected customer
 
 ---
-![Dashboard Preview](Dashboards/Ecommerce_Transactions_UK_Dashboard - Light)
+![Ecommerce_Transactions_UK_Dashboard - Light_page-0001](https://github.com/user-attachments/assets/e2dc4dce-abd9-434c-a205-8e2c41abdf4d)
 ---
 
 ## 📈 Tools Used
